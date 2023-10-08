@@ -1,0 +1,2 @@
+...state,
+                isLoading: true
